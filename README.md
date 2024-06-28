@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Joze and I am coding something... 👋
 
 <!--
 **jozekuhar/jozekuhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
